@@ -34,7 +34,6 @@ Sistem Rekomendasi Ruangan Perkuliahan merupakan aplikasi berbasis web yang dibu
 - `/hasil-rekomendasi` – Hasil rekomendasi
 - `/jadwal` – Daftar jadwal
 - `/tentang` – Tentang sistem
-
 ## Screenshot Tampilan
 
 ### 1. Dashboard
@@ -45,7 +44,6 @@ Sistem Rekomendasi Ruangan Perkuliahan merupakan aplikasi berbasis web yang dibu
 
 ### 3. Hasil Rekomendasi
 ![Hasil Rekomendasi](screenshots/hasil-rekomendasi.png)
-
 ## Cara Menjalankan Aplikasi
 
 1. Pastikan PHP dan Composer sudah terpasang.
